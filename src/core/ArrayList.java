@@ -1,10 +1,11 @@
 package core;
 
 import java.util.Collections;
+import java.util.List;
 
 public class ArrayList { 
   public static void main(String[] args) { 
-    ArrayList<String> cars = new ArrayList<String>();
+    List<String> cars = new java.util.ArrayList<>();
     cars.add("Volvo");
     cars.add("BMW");
     cars.add("Ford");
