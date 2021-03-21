@@ -2,7 +2,7 @@ package core;
 
 import java.io.File;
 
-public class FileHandling {
+public class FileCreatew3s {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
