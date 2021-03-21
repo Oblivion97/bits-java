@@ -17,7 +17,7 @@ class Inheritance{
     public static void main(String args[]){  
         Dog d=new Dog(); 
         
-        AnimalIn a = new AnimalIn();
+        //AnimalIn a = new AnimalIn();
         AnimalIn dIn = new Dog();
         
         dIn.eat();

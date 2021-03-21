@@ -1,6 +1,5 @@
 package core;
 
-// The main method must be in a class named "Main".
 // Abstract class
 abstract class Animal {
   // Abstract method (does not have a body)
