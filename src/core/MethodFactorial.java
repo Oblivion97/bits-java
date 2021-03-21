@@ -22,5 +22,6 @@ public class MethodFactorial {
     int number = keyboard.nextInt();
     
     factorial(number);
+    keyboard.close();
   }
 }

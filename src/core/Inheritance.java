@@ -1,13 +1,13 @@
 package core;
 
 // The main method must be in a class named "Main".
-class Animal{  
+class AnimalIn{  
     void eat(){
         System.out.println("eating...");
         
     }
 }  
-class Dog extends Animal{  
+class Dog extends AnimalIn{  
     void bark(){
         System.out.println("barking...");
         
@@ -17,13 +17,13 @@ class Inheritance{
     public static void main(String args[]){  
         Dog d=new Dog(); 
         
-        Animal a = new Animal();
-         Animal d = new Dog();
+        //AnimalIn a = new AnimalIn();
+        AnimalIn dIn = new Dog();
         
-        d.eat();
+        dIn.eat();
         
         d.bark();  
-        d.eat();  
+        dIn.eat();  
     }
     
 } 
