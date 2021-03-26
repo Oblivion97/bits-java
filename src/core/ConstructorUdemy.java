@@ -34,9 +34,9 @@ class ConstructorUdemy {
         //System.out.println("Hello world!");
         
     	
-        Machine machine1 = new Machine();
-        Machine machine2 = new Machine("Breanna");
-        Machine machine3 = new Machine("Mahmudul", 6158);
+        //Machine machine1 = new Machine();
+        //Machine machine2 = new Machine("Breanna");
+        //Machine machine3 = new Machine("Mahmudul", 6158);
         
     }
 }

@@ -41,7 +41,7 @@ public class FileFolderHnadling {
 				//System.out.println("Something: "+myObj.compareTo("D:\\Eclipse WorkSpace\\Java\\JavaBasicPractice\\FileTest.txt"));
 				System.out.println("File Size: " +myObj.length());
 			}else {
-				System.out.println("File Doesn't Exist.");//bytes
+				System.out.println("File Doesn't Exist.");
 			}
 			
 			
